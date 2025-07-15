@@ -1,0 +1,1 @@
+# SOC-Lab-02-Modular-Detection-Wazuh
