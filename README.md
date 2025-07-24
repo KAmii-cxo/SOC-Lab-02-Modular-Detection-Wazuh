@@ -15,7 +15,6 @@ The goal: build a modular detection set that can be reused in any SOC lab, blue 
   - Auditd (system calls)
   - FIM (File Integrity Monitoring)
   - Command log decoding
-- **No Kali required** (Simulate attacks on same box)
 
 ---
 
