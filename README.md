@@ -65,7 +65,7 @@ The goal: build a modular detection set that can be reused in any SOC lab, blue 
 ## 📂 Files & Documentation
 
 - 📘 [Full Lab Document (Google Doc)](https://docs.google.com/document/d/1Y2FkC6LkYLrOxYcMcoFkI49VS0gGtKHXH5pqHC79rRs/edit?usp=drive_link)
-- 📄 [Modular Detection Report (PDF)](https://your-pdf-link)
+- 📄 [Wazuh Custom Rules – Persistence Detection (MITRE-based)](https://docs.google.com/document/d/175FfMyy9H1UmCG0DwcVPYH6uuwDrMY47_bgvIxVnBQI/edit?usp=drive_link)
 
 > Includes setup checklist, custom rules, full simulation steps, screenshots, alert logs, and cleanup steps.
 
