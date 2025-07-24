@@ -38,7 +38,7 @@ The goal: build a modular detection set that can be reused in any SOC lab, blue 
 ## 🧩 Detection Rules & Setup
 
 - All rules saved in: `/var/ossec/etc/rules/local_rules.xml`
-- Rule ID range: `100300 – 101000`
+- Rule ID range: `100100 – 100900`
 - Grouping: `custom`, `persistence`, `execution`, `correlation`, `cleanup`, etc.
 
 ### How to Use:
